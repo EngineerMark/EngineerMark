@@ -6,7 +6,9 @@ This is currently pretty expansive, I will move most of it to my website once I'
 
 ## Music
 Some of my favourites I guess
+
 https://www.youtube.com/watch?v=QkipWXIcb-o
+
 https://www.youtube.com/watch?v=Xr6AhZyD6gE + Entire ost of Chobits
 
 ## Machines
