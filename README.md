@@ -25,18 +25,19 @@ For those interested or even caring in general...
   * 1TB Kingston NVME M.2 SSD
   * 1TB Samsung 860 QVO SSD
   * 4TB Seagate HDD
+  * 1TB Toshiba HDD
 </details>
 
 <details>
-  <summary>Building station</summary>
-  This PC is mainly used for tasks that take a long time and use alot of resources (generating lighting, building etc.)
+  <summary>Server / NAS</summary>
+  This PC is used to run any websites, plex and doubles as a home NAS.
   
   * Ryzen 5 3600
   * NVIDIA GTX 1650
   * 8GB DDR4
   * Ubuntu 20.04
   * 256GB NVME M.2 SSD
-  * 2x1TB HDD
+  * 3x4TB HDD RAID0
 </details>
 
 <details>
@@ -52,9 +53,9 @@ For those interested or even caring in general...
 </details>
 
 Besides these, I have *access* to
-* Apple MacBook Pro 2019 15"
 * Raspberry Pi 3 Model B+
-* HP Compaq 6000 Pro MT with GT 710 (for low performance PC testing and DVDs I guess)
+* HP Compaq 6000 Pro MT with GT 710
+* Dell Optiplex 780
 
 ## Visitors
 
